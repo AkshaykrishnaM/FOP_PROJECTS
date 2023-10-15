@@ -1,10 +1,8 @@
 /*
-
 NAME: AKSHAY KRISHNA
 STUDENT ID: 0137246
 SEMESTER: 1
 LECTURER: MS. BRIDGET 
-
 */
 #include <iostream>
 using namespace std;
